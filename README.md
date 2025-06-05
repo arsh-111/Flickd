@@ -1,0 +1,2 @@
+# Flickd
+Flickd AI Hackathon
