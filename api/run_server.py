@@ -10,7 +10,7 @@ project_root = str(Path(__file__).parent.parent)
 if project_root not in sys.path:
     sys.path.append(project_root)
 
-from api.main import app
+from api.app import app
 
 # Configure logging
 logging.basicConfig(
@@ -23,7 +23,7 @@ def start_server():
     try:
         logger.info("Starting FastAPI server...")
         uvicorn.run(
-            "api.main:app",
+            "api.app:app",
             host="0.0.0.0",
             port=8000,
             reload=True,
