@@ -42,7 +42,7 @@ app.add_middleware(
 # Initialize models
 try:
     detector = YOLOv8Detector()
-    faiss_index, product_ids = build_faiss_index_from_catalog("data/images.csv")
+    faiss_index, product_ids, product_metadata = build_faiss_index_from_catalog("data/images.csv")
     vibe_classifier = VibeClassifier()
     logger.info("All models initialized successfully")
 except Exception as e:

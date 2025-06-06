@@ -1,0 +1,721 @@
+{
+  "video_id": "2025-06-02_11-31-19_UTC",
+  "vibes": [],
+  "products": [
+    {
+      "type": "Dress",
+      "color": "Colour:Brown",
+      "style": "Casual Essentials",
+      "matched_product_id": "15034",
+      "match_type": "none",
+      "confidence": 0.5774838924407959,
+      "detected_colors": [
+        "mixed",
+        "black",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15034",
+          "similarity": 0.5774838924407959,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Brown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17076",
+          "similarity": 0.5712028741836548,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Black",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "15259",
+          "similarity": 0.5523796677589417,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "15292",
+          "similarity": 0.5443587303161621,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.5429757833480835,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Blue",
+      "style": "Mira's Casual Wardrobe",
+      "matched_product_id": "17268",
+      "match_type": "similar",
+      "confidence": 0.6723886132240295,
+      "detected_colors": [
+        "black",
+        "mixed",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17268",
+          "similarity": 0.6723886132240295,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Blue",
+          "style": "Mira's Casual Wardrobe"
+        },
+        {
+          "product_id": "15034",
+          "similarity": 0.6722880601882935,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Brown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16694",
+          "similarity": 0.670923113822937,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17076",
+          "similarity": 0.6695742607116699,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "Colour:Black",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6635165810585022,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Brown",
+      "style": "Casual Essentials",
+      "matched_product_id": "15034",
+      "match_type": "similar",
+      "confidence": 0.6680960655212402,
+      "detected_colors": [
+        "black",
+        "mixed",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15034",
+          "similarity": 0.6680960655212402,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Brown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17076",
+          "similarity": 0.6582302451133728,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "Colour:Black",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "15951",
+          "similarity": 0.654897153377533,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6473413705825806,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6473413705825806,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Black",
+      "style": "Casual Essentials",
+      "matched_product_id": "15672",
+      "match_type": "none",
+      "confidence": 0.5091603398323059,
+      "detected_colors": [
+        "gray",
+        "black",
+        "mixed"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15672",
+          "similarity": 0.5091603398323059,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "97551",
+          "similarity": 0.5061010718345642,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15672",
+          "similarity": 0.49751222133636475,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15672",
+          "similarity": 0.48949241638183594,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15195",
+          "similarity": 0.4867798686027527,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:White",
+      "style": "Casual Essentials",
+      "matched_product_id": "118441",
+      "match_type": "none",
+      "confidence": 0.5231533050537109,
+      "detected_colors": [
+        "gray",
+        "black",
+        "mixed"
+      ],
+      "top_matches": [
+        {
+          "product_id": "118441",
+          "similarity": 0.5231533050537109,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17032",
+          "similarity": 0.5119906663894653,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "97557",
+          "similarity": 0.5114923715591431,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Navy Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15125",
+          "similarity": 0.4998060464859009,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "97544",
+          "similarity": 0.48804908990859985,
+          "match_type": "none",
+          "type": "Tshirt",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Skirt",
+      "color": "Colour:Ecru White",
+      "style": "Casual Essentials",
+      "matched_product_id": "16720",
+      "match_type": "none",
+      "confidence": 0.5457286238670349,
+      "detected_colors": [
+        "black",
+        "mixed",
+        "white"
+      ],
+      "top_matches": [
+        {
+          "product_id": "16720",
+          "similarity": 0.5457286238670349,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:Ecru White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16720",
+          "similarity": 0.5457286238670349,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:Ecru White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17076",
+          "similarity": 0.54207843542099,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Black",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "17146",
+          "similarity": 0.5349888205528259,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:RED",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15259",
+          "similarity": 0.532586932182312,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        }
+      ]
+    },
+    {
+      "type": "Top",
+      "color": "Colour:Black",
+      "style": "Party Wear",
+      "matched_product_id": "17076",
+      "match_type": "none",
+      "confidence": 0.5577964782714844,
+      "detected_colors": [
+        "mixed",
+        "black",
+        "white"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17076",
+          "similarity": 0.5577964782714844,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Black",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "17120",
+          "similarity": 0.5437322854995728,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:RED",
+          "style": "Party Collection"
+        },
+        {
+          "product_id": "42040",
+          "similarity": 0.5283467769622803,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15927",
+          "similarity": 0.5273593664169312,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15259",
+          "similarity": 0.5238046646118164,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        }
+      ]
+    },
+    {
+      "type": "Shirt",
+      "color": "Colour:Blue",
+      "style": "Manushi Chilar's Party Go-To's!",
+      "matched_product_id": "15259",
+      "match_type": "none",
+      "confidence": 0.5324927568435669,
+      "detected_colors": [
+        "white",
+        "black",
+        "mixed"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15259",
+          "similarity": 0.5324927568435669,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "15259",
+          "similarity": 0.5120027661323547,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "16040",
+          "similarity": 0.5092743635177612,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16097",
+          "similarity": 0.5092743635177612,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15977",
+          "similarity": 0.5042257905006409,
+          "match_type": "none",
+          "type": "Playsuit",
+          "color": "Colour:Purple",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Top",
+      "color": "unknown",
+      "style": "Casual Essentials",
+      "matched_product_id": "42037",
+      "match_type": "similar",
+      "confidence": 0.6355804204940796,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "42037",
+          "similarity": 0.6355804204940796,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42037",
+          "similarity": 0.631707489490509,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17135",
+          "similarity": 0.6288506984710693,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16158",
+          "similarity": 0.6247678399085999,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16158",
+          "similarity": 0.6247678399085999,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Shirt",
+      "color": "Colour:Blue",
+      "style": "Manushi Chilar's Party Go-To's!",
+      "matched_product_id": "15259",
+      "match_type": "similar",
+      "confidence": 0.6496214866638184,
+      "detected_colors": [
+        "gray",
+        "mixed",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15259",
+          "similarity": 0.6496214866638184,
+          "match_type": "similar",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "15259",
+          "similarity": 0.6443742513656616,
+          "match_type": "similar",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6410539150238037,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6410539150238037,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15915",
+          "similarity": 0.623906135559082,
+          "match_type": "similar",
+          "type": "Shirt",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Top",
+      "color": "unknown",
+      "style": "Casual Essentials",
+      "matched_product_id": "15430",
+      "match_type": "similar",
+      "confidence": 0.6467941999435425,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15430",
+          "similarity": 0.6467941999435425,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6467941999435425,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15951",
+          "similarity": 0.6384428143501282,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15259",
+          "similarity": 0.6357955932617188,
+          "match_type": "similar",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "15915",
+          "similarity": 0.6329079866409302,
+          "match_type": "similar",
+          "type": "Shirt",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Brown",
+      "style": "Casual Essentials",
+      "matched_product_id": "15034",
+      "match_type": "similar",
+      "confidence": 0.600833535194397,
+      "detected_colors": [
+        "black",
+        "mixed",
+        "mixed"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15034",
+          "similarity": 0.600833535194397,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Brown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.5987706184387207,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.5987706184387207,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5880612134933472,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15756",
+          "similarity": 0.5865135192871094,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Red",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Brown",
+      "style": "Casual Essentials",
+      "matched_product_id": "15034",
+      "match_type": "similar",
+      "confidence": 0.6284090280532837,
+      "detected_colors": [
+        "gray",
+        "mixed",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15034",
+          "similarity": 0.6284090280532837,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Brown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17076",
+          "similarity": 0.6115387082099915,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "Colour:Black",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "15951",
+          "similarity": 0.6112741231918335,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6047334671020508,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15430",
+          "similarity": 0.6047334671020508,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    }
+  ]
+}

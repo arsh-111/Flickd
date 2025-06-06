@@ -1,0 +1,1161 @@
+{
+  "video_id": "2025-05-28_13-40-09_UTC",
+  "vibes": [],
+  "products": [
+    {
+      "type": "Dress",
+      "color": "Colour:Blue",
+      "style": "Casual Essentials",
+      "matched_product_id": "15927",
+      "match_type": "none",
+      "confidence": 0.5186762809753418,
+      "detected_colors": [
+        "mixed",
+        "red",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15927",
+          "similarity": 0.5186762809753418,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17107",
+          "similarity": 0.49010103940963745,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:BLACK",
+          "style": "unknown"
+        },
+        {
+          "product_id": "16050",
+          "similarity": 0.4836743474006653,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16107",
+          "similarity": 0.4836743474006653,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15409",
+          "similarity": 0.479289174079895,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "unknown"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Black",
+      "style": "unknown",
+      "matched_product_id": "42100",
+      "match_type": "none",
+      "confidence": 0.5913028120994568,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "42100",
+          "similarity": 0.5913028120994568,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Black",
+          "style": "unknown"
+        },
+        {
+          "product_id": "42037",
+          "similarity": 0.5701621174812317,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17198",
+          "similarity": 0.5648283362388611,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "116107",
+          "similarity": 0.560178279876709,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Pool party dresses"
+        },
+        {
+          "product_id": "16050",
+          "similarity": 0.5592385530471802,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:White",
+      "style": "Casual Essentials",
+      "matched_product_id": "17198",
+      "match_type": "similar",
+      "confidence": 0.6033422946929932,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17198",
+          "similarity": 0.6033422946929932,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15138",
+          "similarity": 0.5937728881835938,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Red",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15360",
+          "similarity": 0.5937728881835938,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Red",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17128",
+          "similarity": 0.5783689618110657,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:RED",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "17128",
+          "similarity": 0.5663865804672241,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:RED",
+          "style": "Party Wear"
+        }
+      ]
+    },
+    {
+      "type": "Shirt",
+      "color": "Colour:Blue",
+      "style": "Casual Essentials",
+      "matched_product_id": "15924",
+      "match_type": "none",
+      "confidence": 0.5970986485481262,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15924",
+          "similarity": 0.5970986485481262,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5848269462585449,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5848269462585449,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5848269462585449,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5848269462585449,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:White",
+      "style": "Casual Essentials",
+      "matched_product_id": "17198",
+      "match_type": "none",
+      "confidence": 0.5126138925552368,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "white"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17198",
+          "similarity": 0.5126138925552368,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42039",
+          "similarity": 0.49151110649108887,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15138",
+          "similarity": 0.49070870876312256,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Red",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15360",
+          "similarity": 0.49070870876312256,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Red",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42039",
+          "similarity": 0.4819616675376892,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Purple",
+      "style": "Casual Essentials",
+      "matched_product_id": "15974",
+      "match_type": "none",
+      "confidence": 0.565339982509613,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15974",
+          "similarity": 0.565339982509613,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Purple",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16050",
+          "similarity": 0.530874490737915,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16107",
+          "similarity": 0.530874490737915,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17198",
+          "similarity": 0.5124531984329224,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15662",
+          "similarity": 0.5102741718292236,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Skirt",
+      "color": "Colour:RED",
+      "style": "Party Wear",
+      "matched_product_id": "17128",
+      "match_type": "none",
+      "confidence": 0.5403150916099548,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "white"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17128",
+          "similarity": 0.5403150916099548,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:RED",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "15409",
+          "similarity": 0.5334245562553406,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "unknown"
+        },
+        {
+          "product_id": "17128",
+          "similarity": 0.5321528911590576,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:RED",
+          "style": "Party Wear"
+        },
+        {
+          "product_id": "17198",
+          "similarity": 0.5310254693031311,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17133",
+          "similarity": 0.5223856568336487,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:RED",
+          "style": "Party Collection"
+        }
+      ]
+    },
+    {
+      "type": "Co-Ord",
+      "color": "Colour:Light Blue",
+      "style": "Casual Essentials",
+      "matched_product_id": "16723",
+      "match_type": "none",
+      "confidence": 0.5609477758407593,
+      "detected_colors": [
+        "black",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "16723",
+          "similarity": 0.5609477758407593,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Light Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "14977",
+          "similarity": 0.5521547794342041,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15299",
+          "similarity": 0.5441175699234009,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15299",
+          "similarity": 0.5441175699234009,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15307",
+          "similarity": 0.5441175699234009,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Shorts",
+      "color": "unknown",
+      "style": "Casual Essentials",
+      "matched_product_id": "16021",
+      "match_type": "none",
+      "confidence": 0.553515613079071,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "16021",
+          "similarity": 0.553515613079071,
+          "match_type": "none",
+          "type": "Shorts",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16021",
+          "similarity": 0.553515613079071,
+          "match_type": "none",
+          "type": "Shorts",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5477157831192017,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5477157831192017,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42082",
+          "similarity": 0.5477157831192017,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Trouser",
+      "color": "Colour:Black",
+      "style": "Casual Essentials",
+      "matched_product_id": "15209",
+      "match_type": "none",
+      "confidence": 0.5126184821128845,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15209",
+          "similarity": 0.5126184821128845,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15209",
+          "similarity": 0.5126184821128845,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17033",
+          "similarity": 0.506686806678772,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Green",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15409",
+          "similarity": 0.5056058168411255,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "unknown"
+        },
+        {
+          "product_id": "16651",
+          "similarity": 0.4951130151748657,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Light Blue",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Co-Ord",
+      "color": "Colour:BLACK",
+      "style": "unknown",
+      "matched_product_id": "17107",
+      "match_type": "similar",
+      "confidence": 0.6459861397743225,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17107",
+          "similarity": 0.6459861397743225,
+          "match_type": "similar",
+          "type": "Co-Ord",
+          "color": "Colour:BLACK",
+          "style": "unknown"
+        },
+        {
+          "product_id": "16050",
+          "similarity": 0.6202826499938965,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16107",
+          "similarity": 0.6202826499938965,
+          "match_type": "similar",
+          "type": "Co-Ord",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42075",
+          "similarity": 0.611972451210022,
+          "match_type": "similar",
+          "type": "Shorts",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42075",
+          "similarity": 0.611972451210022,
+          "match_type": "similar",
+          "type": "Shorts",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:White",
+      "style": "Casual Essentials",
+      "matched_product_id": "17198",
+      "match_type": "similar",
+      "confidence": 0.6721952557563782,
+      "detected_colors": [
+        "gray",
+        "black",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17198",
+          "similarity": 0.6721952557563782,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15409",
+          "similarity": 0.6718554496765137,
+          "match_type": "similar",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "unknown"
+        },
+        {
+          "product_id": "42039",
+          "similarity": 0.6442976593971252,
+          "match_type": "similar",
+          "type": "Skirt",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42039",
+          "similarity": 0.6381193399429321,
+          "match_type": "similar",
+          "type": "Skirt",
+          "color": "Colour:Pink",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17107",
+          "similarity": 0.6377989053726196,
+          "match_type": "similar",
+          "type": "Co-Ord",
+          "color": "Colour:BLACK",
+          "style": "unknown"
+        }
+      ]
+    },
+    {
+      "type": "Trouser",
+      "color": "Colour:Black",
+      "style": "unknown",
+      "matched_product_id": "15409",
+      "match_type": "similar",
+      "confidence": 0.651297926902771,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15409",
+          "similarity": 0.651297926902771,
+          "match_type": "similar",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "unknown"
+        },
+        {
+          "product_id": "17198",
+          "similarity": 0.6085828542709351,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15357",
+          "similarity": 0.6074002385139465,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "Colour:White",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "17107",
+          "similarity": 0.5983964800834656,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:BLACK",
+          "style": "unknown"
+        },
+        {
+          "product_id": "15138",
+          "similarity": 0.5844138860702515,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Red",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Top",
+      "color": "unknown",
+      "style": "Casual Essentials",
+      "matched_product_id": "16050",
+      "match_type": "none",
+      "confidence": 0.5940936803817749,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "16050",
+          "similarity": 0.5940936803817749,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16107",
+          "similarity": 0.5940936803817749,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15350",
+          "similarity": 0.5886467695236206,
+          "match_type": "none",
+          "type": "Top",
+          "color": "white",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15401",
+          "similarity": 0.5689526200294495,
+          "match_type": "none",
+          "type": "Shorts",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15401",
+          "similarity": 0.5689526200294495,
+          "match_type": "none",
+          "type": "Shorts",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:White",
+      "style": "Casual Essentials",
+      "matched_product_id": "17198",
+      "match_type": "similar",
+      "confidence": 0.6703518629074097,
+      "detected_colors": [
+        "white",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "17198",
+          "similarity": 0.6703518629074097,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42061",
+          "similarity": 0.6361016035079956,
+          "match_type": "similar",
+          "type": "Skirt",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16050",
+          "similarity": 0.6331737041473389,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16107",
+          "similarity": 0.6331737041473389,
+          "match_type": "similar",
+          "type": "Co-Ord",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15401",
+          "similarity": 0.626232385635376,
+          "match_type": "similar",
+          "type": "Shorts",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Top",
+      "color": "unknown",
+      "style": "Casual Essentials",
+      "matched_product_id": "16050",
+      "match_type": "none",
+      "confidence": 0.5668526887893677,
+      "detected_colors": [
+        "white",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "16050",
+          "similarity": 0.5668526887893677,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16107",
+          "similarity": 0.5668526887893677,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15232",
+          "similarity": 0.5623575448989868,
+          "match_type": "none",
+          "type": "Jacket",
+          "color": "Colour:Off White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42037",
+          "similarity": 0.535848081111908,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15350",
+          "similarity": 0.5337805151939392,
+          "match_type": "none",
+          "type": "Top",
+          "color": "white",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Purple",
+      "style": "Casual Essentials",
+      "matched_product_id": "15974",
+      "match_type": "similar",
+      "confidence": 0.6747289299964905,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15974",
+          "similarity": 0.6747289299964905,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:Purple",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17130",
+          "similarity": 0.6468435525894165,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:BLACK",
+          "style": "Party Collection"
+        },
+        {
+          "product_id": "17130",
+          "similarity": 0.6435214281082153,
+          "match_type": "similar",
+          "type": "Dress",
+          "color": "Colour:BLACK",
+          "style": "Party Collection"
+        },
+        {
+          "product_id": "15357",
+          "similarity": 0.6344358325004578,
+          "match_type": "similar",
+          "type": "Top",
+          "color": "Colour:White",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "42055",
+          "similarity": 0.6302597522735596,
+          "match_type": "similar",
+          "type": "Shorts",
+          "color": "Colour:Yellow",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Top",
+      "color": "unknown",
+      "style": "Casual Essentials",
+      "matched_product_id": "16050",
+      "match_type": "none",
+      "confidence": 0.5593563318252563,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "16050",
+          "similarity": 0.5593563318252563,
+          "match_type": "none",
+          "type": "Top",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "16107",
+          "similarity": 0.5593563318252563,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "42032",
+          "similarity": 0.5329238176345825,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "unknown",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17198",
+          "similarity": 0.5195644497871399,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15357",
+          "similarity": 0.5187336802482605,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:White",
+          "style": "Manushi Chilar's Party Go-To's!"
+        }
+      ]
+    },
+    {
+      "type": "Trouser",
+      "color": "Colour:Black",
+      "style": "unknown",
+      "matched_product_id": "15409",
+      "match_type": "similar",
+      "confidence": 0.6185712218284607,
+      "detected_colors": [
+        "mixed",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15409",
+          "similarity": 0.6185712218284607,
+          "match_type": "similar",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "unknown"
+        },
+        {
+          "product_id": "15209",
+          "similarity": 0.6127638816833496,
+          "match_type": "similar",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15209",
+          "similarity": 0.6127638816833496,
+          "match_type": "similar",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15381",
+          "similarity": 0.5628230571746826,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Green",
+          "style": "Manushi Chilar's Party Go-To's!"
+        },
+        {
+          "product_id": "17121",
+          "similarity": 0.5580034852027893,
+          "match_type": "none",
+          "type": "Skirt",
+          "color": "Colour:BLACK",
+          "style": "unknown"
+        }
+      ]
+    },
+    {
+      "type": "Co-Ord",
+      "color": "Colour:Blue",
+      "style": "Casual Essentials",
+      "matched_product_id": "15295",
+      "match_type": "none",
+      "confidence": 0.5888444185256958,
+      "detected_colors": [
+        "white",
+        "gray",
+        "gray"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15295",
+          "similarity": 0.5888444185256958,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15295",
+          "similarity": 0.5676214098930359,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15295",
+          "similarity": 0.5644672513008118,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15295",
+          "similarity": 0.5644672513008118,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Blue",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "14996",
+          "similarity": 0.5464231967926025,
+          "match_type": "none",
+          "type": "Top",
+          "color": "Colour:Off White",
+          "style": "Casual Essentials"
+        }
+      ]
+    },
+    {
+      "type": "Trouser",
+      "color": "Colour:Black",
+      "style": "unknown",
+      "matched_product_id": "15409",
+      "match_type": "none",
+      "confidence": 0.5705274343490601,
+      "detected_colors": [
+        "gray",
+        "gray",
+        "black"
+      ],
+      "top_matches": [
+        {
+          "product_id": "15409",
+          "similarity": 0.5705274343490601,
+          "match_type": "none",
+          "type": "Trouser",
+          "color": "Colour:Black",
+          "style": "unknown"
+        },
+        {
+          "product_id": "17107",
+          "similarity": 0.5343925356864929,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:BLACK",
+          "style": "unknown"
+        },
+        {
+          "product_id": "17033",
+          "similarity": 0.5333654284477234,
+          "match_type": "none",
+          "type": "Shirt",
+          "color": "Colour:Green",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "17198",
+          "similarity": 0.5269414782524109,
+          "match_type": "none",
+          "type": "Dress",
+          "color": "Colour:White",
+          "style": "Casual Essentials"
+        },
+        {
+          "product_id": "15138",
+          "similarity": 0.5264398455619812,
+          "match_type": "none",
+          "type": "Co-Ord",
+          "color": "Colour:Red",
+          "style": "Casual Essentials"
+        }
+      ]
+    }
+  ]
+}
